@@ -239,3 +239,15 @@ Received Import Request.
   path: Assets/Scenes/SampleScene.unity
   artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55ccaa32d8e5c1de03c07a5412c8c3c') in 0.001138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3545.367070 seconds.
+  path: Assets/Cube.prefab
+  artifactKey: Guid(65ffc591443a840f5ab13f7503e44f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cube.prefab using Guid(65ffc591443a840f5ab13f7503e44f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4d0b3ba47b6b69c99c1659f8deb0d8') in 1.257553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.275086 seconds.
+  path: Assets/Cube.prefab
+  artifactKey: Guid(65ffc591443a840f5ab13f7503e44f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cube.prefab using Guid(65ffc591443a840f5ab13f7503e44f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5047a35d066532a2370fd6d1599e6c') in 0.005848 seconds 
