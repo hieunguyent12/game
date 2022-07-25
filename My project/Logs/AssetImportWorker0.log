@@ -251,3 +251,9 @@ Received Import Request.
   path: Assets/Cube.prefab
   artifactKey: Guid(65ffc591443a840f5ab13f7503e44f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Cube.prefab using Guid(65ffc591443a840f5ab13f7503e44f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5047a35d066532a2370fd6d1599e6c') in 0.005848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 287.263775 seconds.
+  path: Assets/alalal.prefab
+  artifactKey: Guid(e54d8cdf67b0d40f29ca8f7461f7e25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/alalal.prefab using Guid(e54d8cdf67b0d40f29ca8f7461f7e25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ebf81c5a3e4004baf7035c95fff46a') in 0.007724 seconds 
